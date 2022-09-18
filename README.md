@@ -1,7 +1,7 @@
 <div align="center">
-  <h3>Hi, I’m Rahul Chaudhary</h3>
-  <h3>I'm a full stack web developer open to collaborate on web development activities.</h3>
-  <h3>My future plan is to develop my skill into Three.js</h3>
+  <h2>👋  Hi, I’m Rahul Chaudhary  👋</h2>
+  <p>I'm a full stack developer, open to collaborate on development activities.</p>
+  <p>My future plan is to develop my skills into Three.js</p>
 </div>
 
 ##
