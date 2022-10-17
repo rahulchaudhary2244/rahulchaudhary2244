@@ -12,7 +12,7 @@
 
 ##
 
-[![@rahulchaudhary's Holopin board](https://holopin.io/api/user/board?user=rahulchaudhary)](https://holopin.io/@rahulchaudhary)
+[![@rahulchaudhary's Holopin board](https://holopin.me/rahulchaudhary)](https://holopin.io/@rahulchaudhary)
 
 ##
 
