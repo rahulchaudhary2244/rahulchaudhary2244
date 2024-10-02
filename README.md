@@ -1,7 +1,7 @@
 <div align="center">
   <h2>👋  Hi, I’m Rahul Chaudhary  👋</h2>
   <p>I'm a full stack developer, open to collaborate on development activities.</p>
-  <p>My future plan is to develop my skills into Three.js</p>
+<a href="https://flowcv.me/rahulchaudhary" target="_blank">About me</a>
 </div>
 
 ##
